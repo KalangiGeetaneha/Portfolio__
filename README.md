@@ -30,9 +30,9 @@ This portfolio showcases my projects, technical skills, certifications, achievem
 ### Frontend
 - React.js
 - Next.js
-- TypeScript
+- Html
 - Tailwind CSS
-- Framer Motion
+-Java Script
 
 ### Deployment
 - Vercel
