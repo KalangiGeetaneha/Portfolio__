@@ -109,17 +109,7 @@ Clone the repository
 git clone <your-repository-url>
 ```
 
-Install dependencies
 
-```bash
-npm install
-```
-
-Run the development server
-
-```bash
-npm run dev
-```
 
 Open
 
@@ -134,7 +124,7 @@ http://localhost:3000
 Feel free to connect with me!
 
 - GitHub: https://github.com/KalangiGeetaneha
-- LinkedIn: *Add your LinkedIn profile here*
+- LinkedIn: www.linkedin.com/in/kalangi-geeta-neha-a90574291
 - LeetCode: https://leetcode.com/u/KGeetaneha_2006/
 
 ---
